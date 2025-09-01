@@ -40,3 +40,5 @@ Now we need to create **two secrets inside GitHub as HEROKU_API_TOKEN and HEROKU
 * Click new repository secrets. Need to create two secrets.
 1. name: HEROKU_API_NAME |value: churnmodelprod
 2. name: HEROKU_API_TOKEN |value: Authorization token saved in the last step
+
+<!-- Security scan triggered at 2025-09-01 23:30:53 -->
